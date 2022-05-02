@@ -22,8 +22,11 @@ h1{
 
 .centerVid{
     width: 25em;
+    height: 25em;
     display: block;
     margin: 0 auto 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 .logo{
